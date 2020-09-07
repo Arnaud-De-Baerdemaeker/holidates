@@ -1,0 +1,20 @@
+{
+  "name": "@ptit-naud/holidates",
+  "version": "1.0.0",
+  "bin": "index.js",
+  "description": "Get the holidays of the country of your choice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arnaud-De-Baerdemaeker/holidates.git"
+  },
+  "author": "Arnaud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arnaud-De-Baerdemaeker/holidates/issues"
+  },
+  "homepage": "https://github.com/Arnaud-De-Baerdemaeker/holidates#readme"
+}
