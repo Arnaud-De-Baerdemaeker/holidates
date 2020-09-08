@@ -1,7 +1,10 @@
 {
   "name": "@ptit-naud/holidates",
-  "version": "1.0.0",
-  "bin": "index.js",
+  "version": "1.0.2",
+  "bin":
+  {
+    "holidates": "./index.js"
+  },
   "description": "Get the holidays of the country of your choice",
   "main": "index.js",
   "scripts": {
