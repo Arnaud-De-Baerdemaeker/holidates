@@ -16,18 +16,26 @@ It will allow you to display a list of holidays of the current year for the coun
 5. retrieves the holidays data of the chosen country,
 6. transform the data into a readable and understandable list (date : holiday)
 
-## How to install it ?
+## How to use it ?
 
-You can install it using npm :
+Once you installed it with npm, enter the following command :
 
 ```
-npm install @ptit-naud/holidates
+holidates <country>
 ```
+
+Replace \<country> by a country of your choice in english.
 
 ## Version
 
-1.0.0
+##### 1.0.2
 
-###### Keywords
+Modified the README
 
-countries holidays
+##### 1.0.1
+
+Corrected the .json file to make the package work
+
+##### 1.0.0
+
+Initial
